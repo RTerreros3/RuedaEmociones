@@ -3,7 +3,6 @@ from openai import OpenAI
 import time
 
 # Create client
-#client = OpenAI(api_key='sk-proj-sSiGCauAn9QqH7W1MGdLT3BlbkFJzdhBcAzPhVwXLPz3JSLX')
 
 st.title(':book: : Análisis de casos')
 
